@@ -1,0 +1,10 @@
+model,image,verification
+Dlib,Elon-1.jpeg,True
+Dlib,Elon-2.jpeg,True
+Dlib,Elon-3.jpeg,True
+Dlib,Elon-4.jpeg,True
+Dlib,Maxwell-1.jpeg,False
+Dlib,Maxwell-2.jpeg,False
+Dlib,Maxwell-3.jpeg,False
+Dlib,Maxwell-4.jpeg,False
+Dlib,Maxwell-5.jpeg,False
